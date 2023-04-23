@@ -20,6 +20,7 @@ for numbers in list1:
         evenList.append(numbers)
 print(evenList)
 
+#aufgabe2.1
 
 
 
